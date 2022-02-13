@@ -1,0 +1,7 @@
+*.user
+
+/.vs/
+/.vscode/
+/build/
+/docker/
+/third_party/
